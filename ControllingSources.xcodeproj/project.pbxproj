@@ -105,10 +105,8 @@
 				CB78967F1C1B37EB00A2BD71 /* MasterViewController.swift */,
 				CB7896811C1B37EB00A2BD71 /* DetailViewController.swift */,
 				CB7896831C1B37EB00A2BD71 /* Main.storyboard */,
-				CB7896861C1B37EB00A2BD71 /* Assets.xcassets */,
-				CB7896881C1B37EB00A2BD71 /* LaunchScreen.storyboard */,
-				CB78968B1C1B37EB00A2BD71 /* Info.plist */,
-				CB78967C1C1B37EB00A2BD71 /* ControllingSources.xcdatamodeld */,
+				CB7896AE1C1B3A3F00A2BD71 /* Supporting Files */,
+				CB7896AD1C1B3A1E00A2BD71 /* Core Data */,
 			);
 			path = ControllingSources;
 			sourceTree = "<group>";
@@ -129,6 +127,24 @@
 				CB7896A11C1B37EC00A2BD71 /* Info.plist */,
 			);
 			path = ControllingSourcesUITests;
+			sourceTree = "<group>";
+		};
+		CB7896AD1C1B3A1E00A2BD71 /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				CB78967C1C1B37EB00A2BD71 /* ControllingSources.xcdatamodeld */,
+			);
+			name = "Core Data";
+			sourceTree = "<group>";
+		};
+		CB7896AE1C1B3A3F00A2BD71 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CB7896861C1B37EB00A2BD71 /* Assets.xcassets */,
+				CB7896881C1B37EB00A2BD71 /* LaunchScreen.storyboard */,
+				CB78968B1C1B37EB00A2BD71 /* Info.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
