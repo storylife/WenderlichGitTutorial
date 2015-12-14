@@ -1,9 +1,22 @@
 //
 //  DetailViewController.swift
-//  ControllingSources
+//
+//  super ControllingSources
 //
 //  Created by Olli Brzoska on 11.12.15.
 //  Copyright © 2015 Goodsquirrel Apps. All rights reserved.
+//
+//
+// 123
+//
+//
+//  DetailViewController.swift
+//
+//  super ControllingSources
+//
+//  DetailViewController.swift
+//
+//  super ControllingSources
 //
 
 import UIKit
